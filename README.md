@@ -11,3 +11,5 @@ oops
 Avec un smiley 😎
 
 Et depuis le MacBookAir 🍎
+
+Avec signature GPG cette fois
